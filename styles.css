@@ -177,6 +177,12 @@ img {
   margin: 0 auto 6rem auto;
   border-bottom: 0.2rem solid var(--main-white);
 }
+.projects-group-header {
+  max-width: 640px;
+  margin: 0 auto 6rem auto;
+  border-bottom: 0.2rem solid var(--main-gray);
+  color: var(--main-gray)
+}
 
 @media (max-width: 28.75em) {
   .projects-section-header {
